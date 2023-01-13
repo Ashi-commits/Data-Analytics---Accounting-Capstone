@@ -1,4 +1,4 @@
-# Data-Analytics---Accounting-Capstone
+# Data-Analytics-Accounting-Capstone
 A data analytics project where I used CRISP-DM framework on the LendingClub dataset in Python.
 
 
